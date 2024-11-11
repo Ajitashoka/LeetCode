@@ -1,5 +1,5 @@
-https://leetcode.com/problems/prime-subtraction-operation/solutions/6032232/binary-search/
-Intuition
+//https://leetcode.com/problems/prime-subtraction-operation/solutions/6032232/binary-search/
+//Intuition
 /*Optimal prime can be computed using binary search.We should construct array such that the difference between the elements should be as small as possible.
 
 Approach
